@@ -37,5 +37,5 @@ Below is the screenshot of the cleaned data exported to Excel:
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_GITHUB_USERNAME/ecommerce-product-scraper-python.git](https://github.com/YOUR_GITHUB_USERNAME/ecommerce-product-scraper-python.git)
+git clone [https://github.com/samadch2/ecommerce-product-scraper-python.git](https://github.com/samadch2/ecommerce-product-scraper-python.git)
 cd ecommerce-product-scraper-python
